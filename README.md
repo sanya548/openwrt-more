@@ -8,7 +8,7 @@ New string #64:
 "55534243123456780000000000000011063000000000010000000000000000"
 ```
 
-Enter number of string in msg:  64-3=61
+Enter number of string in "msg":  64-3=61
 ```
 ...
 		"12d1:1f01": {
