@@ -2,6 +2,8 @@
 
 some of my scripts and other OpenWRT related stuff
 
+
+# LuCI openwrt-23.05 / OpenWrt 23.05.3
 New string #64:
 ```
 ...
